@@ -21,6 +21,9 @@ parts/
 sdist/
 var/
 wheels/
+bin/
+summary/
+.idea/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -99,3 +102,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
